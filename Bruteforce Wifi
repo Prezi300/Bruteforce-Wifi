@@ -89,3 +89,4 @@ for i in passwds:
         print("Invalid password")
     else:
         print(f"{name} password is: {i}")
+        break
